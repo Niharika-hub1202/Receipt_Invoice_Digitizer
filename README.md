@@ -15,18 +15,12 @@ This project digitizes manual receipts and invoices by extracting useful informa
 - Python
 - OCR (Tesseract / EasyOCR)
 - OpenCV
-- Flask (optional)
-
-## 📂 Project Structure
-Explain folder structure briefly.
+- Flask 
 
 ## 🚀 How to Run
 1. Clone the repository  
 2. Install dependencies  
-3. Run `app.py`
-
-## 📸 Sample Output
-(Add screenshots here)
+3. Run `app.py
 
 ## 📌 Use Cases
 - Expense tracking
