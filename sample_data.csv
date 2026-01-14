@@ -1,0 +1,5 @@
+id,merchant,date,category,item,qty,price,total
+1,Walmart,2024-10-18,Grocery,Milk,1,49.9,49.9
+2,Amazon,2024-11-05,Electronics,Mouse,1,799,799
+3,Walmart,2024-11-10,Grocery,Bread,2,30,60
+4,DMart,2024-12-01,Grocery,Rice,1,450,450
