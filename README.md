@@ -1,4 +1,4 @@
-# Receipt_Invoice_Digitizer
+# Receipt_Invoice_Digitizer(MILESTONE-1)
 AI-based system to extract and digitize data from manual receipts and invoices using OCR and NLP. 
 
 ## 📌 Project Overview
